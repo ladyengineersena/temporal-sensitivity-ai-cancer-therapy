@@ -3,6 +3,12 @@
 This project models time-dependent sensitivity patterns of cancer
 treatment response using Transformer-based temporal modeling.
 
+## Environment
+This project is a research prototype.
+Environment dependencies are defined via requirements.txt.
+Dockerization is intentionally omitted.
+
+
 ## Key Contributions
 - Temporal sensitivity profiling
 - Transformer with attention-based interpretability
@@ -30,3 +36,4 @@ This repository does not provide medical advice.
 
 ## License
 NO LICENSE – All rights reserved.
+
