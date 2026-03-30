@@ -11,3 +11,9 @@ build/
 .venv/
 venv/
 .DS_Store
+data/*.csv
+analysis/outputs/*.png
+models/*.pt
+models/*_meta.json
+__pycache__/
+tests/.pytest_cache/
